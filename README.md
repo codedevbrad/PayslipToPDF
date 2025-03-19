@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-    <p> Easier way for me to generate monthly Payslips with the needed option of generating a PDF. </p>
+    <p> Making paysliips in word and converting to PDF to pay my employee was a hassle because i was manually having to mentally add and check that the weekly hours were correct + the total per month.. Now, with the system I quicky made, it's an easier way for me to generate monthly Payslips with the needed option of generating a PDF. </p>
 </div>
 
 
