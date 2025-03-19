@@ -6,7 +6,7 @@
 </div>
 <br />
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,mongodb,prisma,ai" />
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
     </a>
 </div>
 
